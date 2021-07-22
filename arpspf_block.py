@@ -11,8 +11,8 @@ warnings.filterwarnings("ignore", message= "Unverified HTTPS request ")
 # SmartZone variables
 host = 'https://vsz-beta.ruckusdemos.net:8443'
 username = "admin"
-password = "J@ck7629!!!!"
-domain = "OpenRoaming"
+password = "xxxx"
+domain = ".Karthik."
 r = requests.Session()
 
 #API version
